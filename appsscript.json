@@ -1,7 +1,6 @@
 {
-  "timeZone": "America/Argentina/Buenos_Aires",
-  "dependencies": {
-  },
+  "timeZone": "Europe/Istanbul",
+  "dependencies": {},
   "exceptionLogging": "STACKDRIVER",
   "runtimeVersion": "V8",
   "oauthScopes": [
